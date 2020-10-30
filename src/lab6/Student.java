@@ -7,7 +7,7 @@ public class Student {
         this.name = name;
         this.SUM = SUM;
     }
-    public int getSUM() { return SUM; }
+    public int getSUM() { return SUM;}
     public String getName() { return name; }
 
     public void setName(String name) { this.name = name; }

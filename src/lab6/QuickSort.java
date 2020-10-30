@@ -1,7 +1,8 @@
 package lab6;
 import java.util.ArrayList;
 
-public class QuickSort {
+public class QuickSort
+{
     public void quickSort(ArrayList<Student> arr, int from, int to) {
         if (from < to) {
             int SIndex = Q(arr, from, to);

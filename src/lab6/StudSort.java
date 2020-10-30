@@ -1,7 +1,8 @@
 package lab6;
 import java.util.ArrayList;
 
-public class StudSort {
+public class StudSort
+{
     public static void main(String[] args) {
         ArrayList<Student> arrayList = new ArrayList<>(20);
         for (int i = 0; i < 10; i++){

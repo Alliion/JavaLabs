@@ -2,7 +2,8 @@ package lab7;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class Pyanica {
+public class Pyanica
+{
     public static boolean beats (int first, int second) {
         return (first > second && first != 9 && second != 0 || first ==
                 0 && second == 9);

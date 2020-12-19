@@ -1,2 +1,2 @@
 # JavaLabs
-Java labs 3rd semester
+Java labs 3rd semester(1-16 done)
